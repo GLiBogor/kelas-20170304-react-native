@@ -1,6 +1,6 @@
 # Kelas React Native
 
-This repository contains React Native example app from Abraincode meetup that held in [Keboencoding](https://www.google.co.id/maps/place/Keboen+Coding+-+IT+Community/@-6.3621547,106.8384558,15z/data=!4m2!3m1!1s0x0:0x813f0df3a09fcde5?sa=X&ved=0ahUKEwi9rsrT_rzSAhUUTo8KHYB4CTcQ_BIIajAO)
+This repository contains React Native example app from Kelas GLiB that held at [Rumah Btech](https://www.google.com/maps/uv?hl=en&pb=!1s0x2e69c45d60231907%3A0x95b9c9ebfa9b4767!2m19!2m2!1i80!2i80!3m1!2i20!16m13!1b1!2m2!1m1!1e1!2m2!1m1!1e3!2m2!1m1!1e5!2m2!1m1!1e4!3m1!7e115!4s%2Fmaps%2Fplace%2Frumah%2Bbtech%2F%40-6.5672637%2C106.7808132%2C3a%2C75y%2C14.79h%2C90t%2Fdata%3D*213m4*211e1*213m2*211sRFdklRIdUAGqKiNGWhyz-g*212e0*214m2*213m1*211s0x0%3A0x95b9c9ebfa9b4767!5srumah%20btech%20-%20Google%20Search&imagekey=!1e2!2sRFdklRIdUAGqKiNGWhyz-g&sa=X&ved=0ahUKEwjvhrX_zuTSAhWIRI8KHar8C1sQpx8IhQEwDA) (previously with Abraincode at [Keboencoding](https://www.google.co.id/maps/place/Keboen+Coding+-+IT+Community/@-6.3621547,106.8384558,15z/data=!4m2!3m1!1s0x0:0x813f0df3a09fcde5?sa=X&ved=0ahUKEwi9rsrT_rzSAhUUTo8KHYB4CTcQ_BIIajAO)
 
 ### Presentation slide
 
